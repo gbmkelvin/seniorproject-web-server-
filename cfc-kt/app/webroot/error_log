@@ -1,0 +1,12 @@
+[13-Jul-2013 10:33:22 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRproject/app/Controller/RecipedetailsController.php on line 9
+[13-Jul-2013 10:34:36 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRproject/app/Controller/RecipedetailsController.php on line 9
+[13-Jul-2013 10:55:10 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipesController.php on line 9
+[13-Jul-2013 10:55:45 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipesController.php on line 9
+[13-Jul-2013 10:56:12 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipesController.php on line 9
+[13-Jul-2013 10:58:38 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipesController.php on line 9
+[13-Jul-2013 10:59:06 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipesController.php on line 9
+[13-Jul-2013 11:35:33 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipeDetailsController.php on line 9
+[13-Jul-2013 11:35:52 Asia/Bangkok] PHP Fatal error:  Call to a member function find() on a non-object in /home/earth/public_html/lcr/LCR/www/LCRweb/app/Controller/RecipeDetailsController.php on line 9
+[17-Sep-2013 13:58:12 Asia/Bangkok] PHP Fatal error:  Cannot unset string offsets in /home4/earth/public_html/lcr/LCR/www/LCRweb/lib/Cake/View/Helper/HtmlHelper.php on line 355
+[17-Sep-2013 13:58:31 Asia/Bangkok] PHP Fatal error:  Cannot unset string offsets in /home4/earth/public_html/lcr/LCR/www/LCRweb/lib/Cake/View/Helper/HtmlHelper.php on line 355
+[17-Sep-2013 14:01:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';' in /home4/earth/public_html/lcr/LCR/www/LCRweb/app/View/ShopIngredients/index.ctp on line 19

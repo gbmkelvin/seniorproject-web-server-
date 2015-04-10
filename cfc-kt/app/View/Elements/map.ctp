@@ -1,0 +1,1 @@
+<?= $this->Html->script('http://maps.google.com/maps/api/js?key= AIzaSyCGPigD7y-Ulr6Umvhq3A6LeIov8_bpMzE&sensor=true', false); ?>
